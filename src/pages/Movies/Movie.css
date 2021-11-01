@@ -1,0 +1,10 @@
+
+.Movie{
+    background-color: rgb(28, 10, 70);
+}
+.Movie-container{
+    width: 400px;
+    margin: auto;
+    margin-bottom: 30px;
+
+}
